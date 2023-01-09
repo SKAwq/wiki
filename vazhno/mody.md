@@ -13,7 +13,7 @@ description: >-
 ### Инструкция к установке
 
 * Скачайте и установите [Fabric](https://fabricmc.net/) или [Forge](http://files.minecraftforge.net/)
-* Загрузите ([Optifine](https://optifine.net/adloadx?f=OptiFine\_1.19.2\_HD\_U\_H9.jar\&x=0261) - обязателен для всех) и[ ](https://www.curseforge.com/minecraft/mc-mods/optifabric)([Optifabric](https://www.curseforge.com/minecraft/mc-mods/optifabric) - требуется если у вас установлен фабрик) и поместите его в папку `.minecraft/mods`.
+* Загрузите ([Optifine](https://optifine.net/adloadx?f=OptiFine\_1.19.2\_HD\_U\_H9.jar\&x=0261) - обязателен для всех) и[ ](https://www.curseforge.com/minecraft/mc-mods/optifabric)([Optifabric](https://www.curseforge.com/minecraft/mc-mods/optifabric) - а также установите его , если у вас установлен фабрик) и поместите его в папку `.minecraft/mods`.
 * Запустите игру, зайдите на сервер и наслаждайтесь новыми вещами
 
 
