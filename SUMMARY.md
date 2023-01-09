@@ -5,4 +5,6 @@
 ## важно
 
 * [🚪 Регистрация](vazhno/registraciya.md)
-* [🧩 Ресурспак](vazhno/resurspak.md)
+* [🧩 Ресурспак](vazhno/resurspak/README.md)
+  * [🔻 Установка](vazhno/resurspak/ustanovka.md)
+* [Page 1](vazhno/page-1.md)
