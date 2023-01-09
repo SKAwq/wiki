@@ -1,3 +1,3 @@
 # Table of contents
 
-* [wiki](README.md)
+* [❗ Основная информация](README.md)
