@@ -16,7 +16,7 @@ description: >-
 **/crawl** — Ползать по земле\
 **/sit toggle** — Переключить возможность щелкать правой кнопкой мыши по блокам или игрокам
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>пример : /sit</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>пример : /sit</p></figcaption></figure>
 
 ### Выпадение голов
 
@@ -29,7 +29,7 @@ description: >-
 На нашем сервере есть голосовой мод. С помощью которого можно говорить прямо в самом майнкрафте. Загляните в категорию "[моды](mody.md#plasmovoice)"\
 
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>пример : отсуствует мод , разговаривет , замучен</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>пример : отсуствует мод , разговаривет , замучен</p></figcaption></figure>
 
 ### Ресурс паки
 
@@ -48,4 +48,10 @@ description: >-
 На сервере присутствуют локации , это места где вы можете убивать кого хотите и вам за это нечего не будет , еще особенность их в луте , тут вы можете найти как обычный лут так и уникальный , еще здесь есть много секретов которые относятся к сюжету , а также крафты предметов (о них ниже)
 
 <figure><img src="../.gitbook/assets/69_20230110000730.png" alt=""><figcaption><p>пример : локация на сервере</p></figcaption></figure>
+
+## Крафты&#x20;
+
+На сервере была переработана слегка механика крафтов некоторых предметов , каких именно  вам стоит узнать на самом сервере , а крафты этих предметов можно найти в локациях
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>пример : фото верстака , хз</p></figcaption></figure>
 
