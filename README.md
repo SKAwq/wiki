@@ -1,5 +1,5 @@
 ---
-description: IP › server.kr.net I Версия 1.19.2
+description: IP › скоро.будет.tk I Версия 1.19.2
 ---
 
 # ❗ Основная информация
