@@ -36,7 +36,7 @@ description: >-
 
 Можно назначить эмоции на отдельные кнопки, чтобы пользоваться ими быстро без залезания в меню выбора эмоций. Эмоции повторяют собой те, что можно увидеть в бедрок версии майнкрафта. Чтобы видеть эмоции на сервере, нужно установить мод на клиент.
 
-### Установка мода
+### Инструкция к установке
 
 * Скачайте и установите [Fabric](https://fabricmc.net/) или [Forge](http://files.minecraftforge.net/)
 * Загрузите ["Мод для Fabric"](https://www.curseforge.com/minecraft/mc-mods/emotecraft) или ["Мод для Forge"](https://www.curseforge.com/minecraft/mc-mods/emotecraft-forge) и поместите его в папку `.minecraft/mods`.&#x20;
