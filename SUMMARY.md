@@ -7,4 +7,8 @@
 * [🚪 Регистрация](vazhno/registraciya.md)
 * [💡 Правила](vazhno/pravila.md)
 * [🧶 Моды](vazhno/mody.md)
-* [🛠 Механики сервера](vazhno/mekhaniki-servera.md)
+
+## уникальные дополнения и прочие особенности
+
+* [🛠 Механики сервера](unikalnye-dopolneniya-i-prochie-osobennosti/mekhaniki-servera.md)
+* [💎 Все команды проекта](unikalnye-dopolneniya-i-prochie-osobennosti/vse-komandy-proekta.md)
