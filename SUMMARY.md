@@ -17,4 +17,4 @@
 ## проблемы
 
 * [🧩 Текстурпак](problemy/teksturpak.md)
-* [🧶 Моды](problemy/mody.md)
+* [🧵 Моды](problemy/mody.md)
