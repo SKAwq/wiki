@@ -13,3 +13,7 @@
 * [🛠 Механики сервера](unikalnye-dopolneniya-i-prochie-osobennosti/mekhaniki-servera.md)
 * [💎 Все команды проекта](unikalnye-dopolneniya-i-prochie-osobennosti/vse-komandy-proekta.md)
 * [🍩 Донат](unikalnye-dopolneniya-i-prochie-osobennosti/donat.md)
+
+## проблемы
+
+* [🧩 Текстурпак](problemy/teksturpak.md)
