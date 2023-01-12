@@ -12,5 +12,7 @@ description: IP › скоро.будет.tk I Версия 1.19.2
 
 Здесь ты можешь быть кем угодно , начиная от просто игрока , строителя и фермера до [певца](unikalnye-dopolneniya-i-prochie-osobennosti/mekhaniki-servera/#golosovoi-chat) , [убийцы](unikalnye-dopolneniya-i-prochie-osobennosti/mekhaniki-servera/#lokacii) и [танцора](unikalnye-dopolneniya-i-prochie-osobennosti/mekhaniki-servera/#emocii). Тут ты можешь найти себе огромную кучу [друзей](https://discord.gg/bqdMPtSZGY) , а может даже и не друзей , кто знает :) Тут можешь создать свой город , клан , отряд и т.д для строительства своего маленького мира на нашем сервере. Если у тебя случаться какие либо проблемы то пиши нашей отзывчивой поддержки которая ответит в максимально короткий срок и решит все твои проблемы.
 
+(какое-то фото с сервера)
+
 Чтоб заскучать тебе надо будет постараться.
 
