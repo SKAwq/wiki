@@ -61,3 +61,9 @@ description: >-
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>пример : вид онлайн карты</p></figcaption></figure>
 
+## Шапки
+
+Просто крутое дополнение , делается переименованием вырезанной тыквы , можно отыгрывать РП или просто как аксессуар
+
+<figure><img src="../.gitbook/assets/IMG_6842.JPEG" alt=""><figcaption><p>пример : три шапки из 170+</p></figcaption></figure>
+
