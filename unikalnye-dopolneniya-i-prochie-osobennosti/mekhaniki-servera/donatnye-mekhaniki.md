@@ -12,3 +12,8 @@ description: >-
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>пример : тотем игрока skawq</p></figcaption></figure>
 
+## Товар
+
+Описание
+
+(фото)
