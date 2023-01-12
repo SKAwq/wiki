@@ -12,7 +12,7 @@ description: Тут расписаны все команды на сервере
 |         |          |
 |         |          |
 
-## Команды ([механик](mekhaniki-servera.md)[и](mekhaniki-servera.md))
+## Команды ([механик](mekhaniki-servera/)[и](mekhaniki-servera/))
 
 | Команда | Описание |
 | ------- | -------- |

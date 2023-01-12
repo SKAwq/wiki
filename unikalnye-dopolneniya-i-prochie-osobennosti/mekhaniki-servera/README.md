@@ -16,54 +16,61 @@ description: >-
 **/crawl** — Ползать по земле\
 **/sit toggle** — Переключить возможность щелкать правой кнопкой мыши по блокам или игрокам
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>пример : /sit</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>пример : /sit</p></figcaption></figure>
 
 ## Выпадение голов
 
 На сервере есть специальный плагин, благодаря которому при каждой смерти от рук другого игрока из вас выпадает ваша голова. Это можно использовать как Декорацию или же трофей.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>пример : головы игроков на стене</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>пример : головы игроков на стене</p></figcaption></figure>
 
 ## Голосовой чат
 
-На нашем сервере есть голосовой мод. С помощью которого можно говорить прямо в самом майнкрафте. Загляните в категорию "[моды](../vazhno/mody.md#plasmovoice)"\
+На нашем сервере есть голосовой мод. С помощью которого можно говорить прямо в самом майнкрафте. Загляните в категорию "[моды](../../vazhno/mody.md#plasmovoice)"\
 
 
-<figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption><p>пример : отсуствует мод , разговаривет , замучен</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (2).png" alt=""><figcaption><p>пример : отсуствует мод , разговаривет , замучен</p></figcaption></figure>
 
 ## Ресурспак
 
 Наша администрация сервера постаралась и сделала ресурс пак сервера, он выдается автоматически при заходе на сервер. Он практически не как не влияет на игру. С его помощью получается сделать например такое :&#x20;
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>пример : немного ресурспака</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>пример : немного ресурспака</p></figcaption></figure>
 
 ## Эмоции
 
-На нашем сервере есть мод на эмоции. С помощью которого можно показать свою реакцию или же как-то отыграть по рп. Загляните в категорию "[моды](../vazhno/mody.md#plasmovoice)"
+На нашем сервере есть мод на эмоции. С помощью которого можно показать свою реакцию или же как-то отыграть по рп. Загляните в категорию "[моды](../../vazhno/mody.md#plasmovoice)"
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>пример : Эмоция (JOJO-поза) </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>пример : Эмоция (JOJO-поза) </p></figcaption></figure>
 
 ## Локации
 
 На сервере присутствуют локации , это места где вы можете убивать кого хотите и вам за это нечего не будет , еще одна особенность , это их лут , тут вы можете найти как обычный лут так и уникальный , еще здесь есть много секретов которые относятся к сюжету , а также крафты предметов (о них ниже)
 
-<figure><img src="../.gitbook/assets/69_20230110000730.png" alt=""><figcaption><p>пример : локация на сервере</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/69_20230110000730.png" alt=""><figcaption><p>пример : локация на сервере</p></figcaption></figure>
 
 ## Крафты&#x20;
 
 На сервере была переработана слегка механика крафтов некоторых предметов , каких именно  вам стоит узнать на самом сервере , а крафты этих предметов можно найти в локациях
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>пример : фото верстака , хз</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>пример : фото верстака , хз</p></figcaption></figure>
 
 ## Онлайн карта
 
 У нас есть онлайн карта(слово карта сделать ссылкой) с помощью которой можно посмотреть чем и где занимаются игроки на сервере , так же можно посмотреть на всю открытую территорию карты
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>пример : вид онлайн карты</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>пример : вид онлайн карты</p></figcaption></figure>
 
 ## Шапки
 
 Просто крутое дополнение , делается переименованием вырезанной тыквы , можно отыгрывать РП или просто использовать как аксессуар
 
-<figure><img src="../.gitbook/assets/IMG_6842.JPEG" alt=""><figcaption><p>пример : три шапки из 170+</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/IMG_6842.JPEG" alt=""><figcaption><p>пример : три шапки из 170+</p></figcaption></figure>
 
+
+
+## Одежда
+
+текст
+
+(фото)

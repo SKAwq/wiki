@@ -10,7 +10,8 @@
 
 ## уникальные дополнения и прочие особенности
 
-* [🛠 Механики сервера](unikalnye-dopolneniya-i-prochie-osobennosti/mekhaniki-servera.md)
+* [🛠 Механики сервера](unikalnye-dopolneniya-i-prochie-osobennosti/mekhaniki-servera/README.md)
+  * [💸 Донатные механики](unikalnye-dopolneniya-i-prochie-osobennosti/mekhaniki-servera/donatnye-mekhaniki.md)
 * [💎 Все команды проекта](unikalnye-dopolneniya-i-prochie-osobennosti/vse-komandy-proekta.md)
 * [🍩 Донат](unikalnye-dopolneniya-i-prochie-osobennosti/donat.md)
 
