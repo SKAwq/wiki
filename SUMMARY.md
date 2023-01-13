@@ -13,7 +13,6 @@
 * [🛠 Механики сервера](unikalnye-dopolneniya-i-prochie-osobennosti/mekhaniki-servera/README.md)
   * [💸 Донатные механики](unikalnye-dopolneniya-i-prochie-osobennosti/mekhaniki-servera/donatnye-mekhaniki.md)
 * [💎 Все команды проекта](unikalnye-dopolneniya-i-prochie-osobennosti/vse-komandy-proekta.md)
-* [⛑ Ролеплей (РП)](unikalnye-dopolneniya-i-prochie-osobennosti/roleplei-rp.md)
 * [🍩 Донат](unikalnye-dopolneniya-i-prochie-osobennosti/donat.md)
 
 ## проблемы
