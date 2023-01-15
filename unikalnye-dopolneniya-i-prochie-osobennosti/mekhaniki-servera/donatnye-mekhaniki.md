@@ -10,7 +10,7 @@ description: >-
 
 Купив данный товар , вы получите на сервере свой тотем , который будет виден всем кто присутствует на сервере , вы и другие игроки смогут получить тотем с вашим скином переименовав его на наковальне в ваш ник
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>пример : тотем игрока skawq</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (4).png" alt=""><figcaption><p>пример : тотем игрока skawq</p></figcaption></figure>
 
 ## Товар
 
