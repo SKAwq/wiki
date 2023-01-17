@@ -10,55 +10,55 @@ description: >-
 
 На сервере есть такая возможность как сидеть  , лежать , ползать , упасть на блок. Это разнообразит  мир не навредив ему.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>пример : сидим</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>пример : сидим</p></figcaption></figure>
 
 ## Выпадение голов
 
 После смерти от рук другого игрока , выпадет голова. Это можно использовать как декорацию или же трофей.
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>пример : головы игроков на стене</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>пример : головы игроков на стене</p></figcaption></figure>
 
 ## Голосовые чат
 
-На сервере есть возможность разговаривать с другими игроками прямо в майнкрафте , для этого вам понадобится[ установить](mody.md#plasmovoice) эту возможность.
+На сервере есть возможность разговаривать с другими игроками прямо в майнкрафте , для этого вам понадобится[ установить](../../vazhno/mody.md#plasmovoice) эту возможность.
 
-<figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption><p>пример : не установил возможность , разговаривает , замучен</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (2).png" alt=""><figcaption><p>пример : не установил возможность , разговаривает , замучен</p></figcaption></figure>
 
 ## Текстурпак
 
 Нашей администраций и другими людьми был разработан текстурпак для приятной игры на сервере. Все делается путем переименования предметов на наковальне. Помощь(сделать ссылку на хелпак)&#x20;
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>пример : немного ресурспака</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>пример : немного ресурспака</p></figcaption></figure>
 
 ## Эмоции
 
 На сервере присутствуют эмоции для большего разнообразия. С помощью их вы сможете передавать свои эмоции , отыгрывать рп и весело проводить время
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>пример : Эмоция (JOJO-поза) </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>пример : Эмоция (JOJO-поза) </p></figcaption></figure>
 
 ## Локации
 
 Огромные части других реальностей. В них вы можете убивать других людей , в других реальностях мы без сильны , еще тут есть , как обычные наши вещи так и из их реальностей.&#x20;
 
-<figure><img src="../.gitbook/assets/69_20230110000730.png" alt=""><figcaption><p>пример : другая реальность на сервере</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/69_20230110000730.png" alt=""><figcaption><p>пример : другая реальность на сервере</p></figcaption></figure>
 
 ## Крафты&#x20;
 
 Из-за частей других реальностей , несколько наших крафтов были изменены , ищите способы их крафта в других реальностях.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>пример : фото верстака , хз</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>пример : фото верстака , хз</p></figcaption></figure>
 
 ## Карта мира
 
 Мы установили высоко в небе камеру(слово камеру сделать ссылкой) для просмотра чем и где занимаются игроки на сервере , так же можно посмотреть на всю исследованную территорию новой смешанной реальности (название ее).
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>пример : вид с камеры в небе</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>пример : вид с камеры в небе</p></figcaption></figure>
 
 ## Шапки
 
 Делается переименованием вырезанной тыквы , можно использовать как аксессуар или же декорацию в доме.
 
-<figure><img src="../.gitbook/assets/IMG_6842.JPEG" alt=""><figcaption><p>пример : три шапки из 170+</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/IMG_6842.JPEG" alt=""><figcaption><p>пример : три шапки из 170+</p></figcaption></figure>
 
 
 
