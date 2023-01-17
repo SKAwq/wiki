@@ -9,12 +9,13 @@
 * [🚪 Регистрация](vazhno/registraciya.md)
 * [💡 Правила](vazhno/pravila.md)
 * [🧶 Моды](vazhno/mody.md)
+* [🛠 Механики сервера](vazhno/mekhaniki-servera.md)
+* [💸 Донатные механики](vazhno/donatnye-mekhaniki.md)
 
 ## уникальные дополнения и прочие особенности
 
 * [💎 Все команды проекта](unikalnye-dopolneniya-i-prochie-osobennosti/vse-komandy-proekta.md)
-* [🍩 Донат](unikalnye-dopolneniya-i-prochie-osobennosti/donat/README.md)
-  * [💸 Донатные механики](unikalnye-dopolneniya-i-prochie-osobennosti/donat/donatnye-mekhaniki.md)
+* [🍩 Донат](unikalnye-dopolneniya-i-prochie-osobennosti/donat.md)
 
 ## проблемы
 
