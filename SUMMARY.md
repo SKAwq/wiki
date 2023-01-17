@@ -7,9 +7,9 @@
 * [🚪 Регистрация](vazhno/registraciya.md)
 * [💡 Правила](vazhno/pravila.md)
 * [🧶 Моды](vazhno/mody.md)
-* [⏰ 1 Сезон](vazhno/1-sezon/README.md)
-  * [🛠 Что нового в первом сезоне](vazhno/1-sezon/chto-novogo-v-pervom-sezone.md)
-  * [💸 Донатные механики](vazhno/1-sezon/donatnye-mekhaniki.md)
+* [⏰ 1 Сезон](1-sezon.md)
+  * [🛠 Что нового в первом сезоне](unikalnye-dopolneniya-i-prochie-osobennosti/mekhaniki-servera/README.md)
+  * [💸 Донатные механики](unikalnye-dopolneniya-i-prochie-osobennosti/mekhaniki-servera/donatnye-mekhaniki.md)
 
 ## уникальные дополнения и прочие особенности
 
